@@ -1,0 +1,14 @@
+F:\Project\Digital\Lesson5_Two-dimensional_Array\Task_1\obj\Debug\net8.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Digital\Lesson5_Two-dimensional_Array\Task_1\obj\Debug\net8.0\Task_1.AssemblyInfoInputs.cache
+F:\Project\Digital\Lesson5_Two-dimensional_Array\Task_1\obj\Debug\net8.0\Task_1.AssemblyInfo.cs
+F:\Project\Digital\Lesson5_Two-dimensional_Array\Task_1\obj\Debug\net8.0\Task_1.csproj.CoreCompileInputs.cache
+F:\Project\Digital\Lesson5_Two-dimensional_Array\Task_1\bin\Debug\net8.0\Task_1.exe
+F:\Project\Digital\Lesson5_Two-dimensional_Array\Task_1\bin\Debug\net8.0\Task_1.deps.json
+F:\Project\Digital\Lesson5_Two-dimensional_Array\Task_1\bin\Debug\net8.0\Task_1.runtimeconfig.json
+F:\Project\Digital\Lesson5_Two-dimensional_Array\Task_1\bin\Debug\net8.0\Task_1.dll
+F:\Project\Digital\Lesson5_Two-dimensional_Array\Task_1\bin\Debug\net8.0\Task_1.pdb
+F:\Project\Digital\Lesson5_Two-dimensional_Array\Task_1\obj\Debug\net8.0\Task_1.dll
+F:\Project\Digital\Lesson5_Two-dimensional_Array\Task_1\obj\Debug\net8.0\refint\Task_1.dll
+F:\Project\Digital\Lesson5_Two-dimensional_Array\Task_1\obj\Debug\net8.0\Task_1.pdb
+F:\Project\Digital\Lesson5_Two-dimensional_Array\Task_1\obj\Debug\net8.0\Task_1.genruntimeconfig.cache
+F:\Project\Digital\Lesson5_Two-dimensional_Array\Task_1\obj\Debug\net8.0\ref\Task_1.dll
